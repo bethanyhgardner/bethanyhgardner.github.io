@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: About
+      - href: pubs.qmd
+        text: Research
 
 format:
   html:
