@@ -8,8 +8,16 @@ website:
     left:
       - href: index.qmd
         text: About
+      - href: projects.qmd
+        text: Projects
       - href: pubs.qmd
-        text: Research
+        text: Papers & Presentations
+      - text: "CV/Resume"
+        menu:
+          - href: https://github.com/bethanyhgardner/bethanyhgardner.github.io/blob/main/academic_CV.pdf
+            text: Academic
+          - href: https://github.com/bethanyhgardner/bethanyhgardner.github.io/blob/main/industry.pdf
+            text: Industry
 
 format:
   html:

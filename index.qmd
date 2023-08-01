@@ -1,3 +1,68 @@
 ---
-about: solana
+about:
+  template: solana
+  image: images/profilephoto.jpg
+  image-shape: round
 ---
+
+::: about-links
+```{=html}
+<a href="mailto:bethany.gardner@vanderbilt.edu" class="about-link" rel="" target="">
+    <i class="fa fa-envelope"></i><span class="about-link-text"></span>
+  </a>
+```
+
+```{=html}
+<a href="https://www.linkedin.com/in/bethany-gardner-378649121/" class="about-link" rel="" target="">
+    <i class="fa-brands fa-linkedin"></i><span class="about-link-text"></span>
+  </a>
+```
+
+```{=html}
+<a href="https://twitter.com/bethanyhgardner" class="about-link" rel="" target="">
+    <i class="fa-brands fa-twitter"></i><span class="about-link-text"></span>
+  </a>
+```
+
+```{=html}
+<a href="https://github.com/bethanyhgardner" class="about-link" rel="" target="">
+    <i class="fa-brands fa-github"></i><span class="about-link-text"></span>
+  </a>
+```
+
+```{=html}
+<a href="https://osf.io/profile/" class="about-link" rel="" target="">
+    <i class="ai ai-osf"></i><span class="about-link-text"></span>
+  </a>
+```
+
+```{=html}
+<a href="https://www.researchgate.net/profile/Bethany_Gardner8" class="about-link" rel="" target="">
+    <i class="ai ai-researchgate"></i><span class="about-link-text"></span>
+  </a>
+```
+
+```{=html}
+<a href="https://orcid.org/0000-0002-5154-2040" class="about-link" rel="" target="">
+    <i class="ai ai-orcid"></i><span class="about-link-text"></span>
+  </a>
+```
+:::
+
+Under development!
+
+
+::: about-links
+
+```{=html}
+<a href="https://github.com/bethanyhgardner/bethanyhgardner.github.io/blob/main/academic_CV.pdf" class="about-link" rel="" target="">
+    <i class="fa fa-file-arrow-down"></i><span class="about-link-text">&ensp;Academic CV</span>
+  </a>
+```
+
+```{=html}
+<a href="https://github.com/bethanyhgardner/bethanyhgardner.github.io/blob/main/industry_resume.pdf" class="about-link" rel="" target="">
+    <i class="fa fa-file-arrow-down"></i><span class="about-link-text">&ensp;Industry Resume</span>
+  </a>
+```
+:::
