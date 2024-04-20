@@ -12,8 +12,8 @@ For most of these experiments, you can see the preregistration ({{< ai preregist
 |    |                    |    |    |    |
 |:---|:-------------------|:--:|:--:|:--:|
 | under review | **Improving memory for and production of singular *they* pronouns** <br> Gardner, B. & Brown-Schmidt, S. | [![](images/preregistered.svg "Preregistrations")](https://osf.io/u7wd5/registrations) | [![](images/open-data.svg "Materials, Data, & Analysis Code")](https://github.com/bethanyhgardner/singular-they-public) | [![](images/envelope.svg "Manuscript Available Upon Request")](mailto:bethany.gardner@vanderbilt.edu) |
-| under review | **Biased inferences about gender from names** <br> Gardner, B. & Brown-Schmidt, S. | [![](images/preregistered.svg "Preregistrations")](https://osf.io/aypu2/registrations) | [![](images/open-data.svg "Materials, Data, & Analysis Code")](https://github.com/bethanyhgardner/gender-bias-names-public) | [![](images/envelope.svg "Manuscript Available Upon Request")](mailto:bethany.gardner@vanderbilt.edu) |
 | 2021         | **Online pragmatic interpretations of scalar adjectives are affected by perceived speaker reliability** <br> Gardner, B., Dix, S., Lawrence, R., Morgan, C., Sullivan, A., & Kurumada, C. <br> *PLoS ONE* 16(2). [10.1371/journal.pone.0245130](https://doi.org/10.1371/journal.pone.0245130) |  | [![](images/open-data.svg "Materials, Data, & Analysis Code")](https://osf.io/qty25/) | [![](images/file.svg "Download Paper"){width="20"}](https://doi.org/10.1371/journal.pone.0245130) |
+| 2024 | **Biased inferences about gender from names** <br> Gardner, B. & Brown-Schmidt, S. <br> *Glossa Psycholinguistics*, 3(1). [10.5070/G6011185](https://doi.org/10.5070/G6011185) | [![](images/preregistered.svg)](https://osf.io/aypu2/registrations) | [![](images/open-data.svg)](https://github.com/bethanyhgardner/gender-bias-names-public) | [![](images/file.svg)](https://doi.org/10.5070/G6011185) |
 <br>
 
 ### Manuscripts
