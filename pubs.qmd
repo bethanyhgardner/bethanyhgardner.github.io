@@ -18,10 +18,10 @@ For most of these experiments, you can see the preregistration ({{< ai preregist
 
 ### Manuscripts
 
-|    |                    |    |    |    |
-|:---|:-------------------|:--:|:--:|:--:|
-| 2023 | **Learning to comprehend and produce singular *they*** <br> Doctoral dissertation. | [![](images/preregistered.png "Preregistrations")](https://osf.io/u7wd5/registrations) | [![](images/open-data.png "Materials, Data, & Analysis Code")](https://github.com/bethanyhgardner/dissertation) | [![](images/envelope.png "Manuscript Available Upon Request")](mailto:bethany.gardner@vanderbilt.edu) |
-| 2020 | **Gender bias through production about and memory for names** <br> Master's thesis. [ProQuest](https://www.proquest.com/pqdtglobal/docview/2474962280). | [![](images/preregistered.png "Preregistrations")](https://osf.io/aypu2/registrations) | [![](images/open-data.png "Materials, Data, & Analysis Code")](https://github.com/bethanyhgardner/gender-bias-names-public) | [![](images/file.png "Download Paper"){width="20"}](https://www.proquest.com/pqdtglobal/docview/2474962280) |
+|    |                    |    |    |    |    |
+|:---|:-------------------|:--:|:--:|:--:|:--:|
+| 2023 | **Learning to comprehend and produce singular *they*** <br> Doctoral dissertation. [ProQuest](https://www.proquest.com/docview/2864824940). | [![](images/preregistered.png "Preregistrations")](https://osf.io/u7wd5/registrations) | [![](images/open-data.png "Materials, Data, & Analysis Code")](https://github.com/bethanyhgardner/dissertation) | [![](images/file.png "Download Paper"){width="20"}](http://hdl.handle.net/1803/18385) | [![](images/book-open-solid.png "Read Online As Quarto Book")](https://bethanyhgardner.github.io/dissertation/) |
+| 2020 | **Gender bias through production about and memory for names** <br> Master's thesis. [ProQuest](https://www.proquest.com/pqdtglobal/docview/2474962280). |  | [![](images/preregistered.png "Preregistrations")](https://osf.io/aypu2/registrations) | [![](images/open-data.png "Materials, Data, & Analysis Code")](https://github.com/bethanyhgardner/gender-bias-names-public) | [![](images/file.png "Download Paper"){width="20"}](https://www.proquest.com/pqdtglobal/docview/2474962280) |
 <br>
 
 ### Conference Presentations
