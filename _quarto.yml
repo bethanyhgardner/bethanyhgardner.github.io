@@ -8,10 +8,14 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: projects.qmd
-        text: Projects
       - href: pubs.qmd
         text: Papers & Presentations
+      - text: "Portfolio Projects"
+        menu:
+          - href: https://bethanyhgardner.github.io/dissertation/
+            text: Dissertation published as Quarto book
+          - href: https://bethanyhgardner.github.io/lingthusiasm-vowel-plots/
+            text: Vowel plots tutorial
       - text: "CV/Resume"
         menu:
           - href: https://github.com/bethanyhgardner/bethanyhgardner.github.io/blob/main/academic_CV.pdf
