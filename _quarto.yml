@@ -10,23 +10,26 @@ website:
         text: About
       - href: pubs.qmd
         text: Papers & Presentations
-      - text: "Portfolio Projects"
       - href: freelance.qmd
         text: Freelance
+      - text: Portfolio Projects
         menu:
           - href: https://bethanyhgardner.github.io/dissertation/
             text: Dissertation published as Quarto book
           - href: https://bethanyhgardner.github.io/lingthusiasm-vowel-plots/
             text: Vowel plots tutorial
-      - text: "CV/Resume"
+      - text: CV/Resume
         menu:
           - href: https://github.com/bethanyhgardner/bethanyhgardner.github.io/blob/main/academic_CV.pdf
             text: Academic
           - href: https://github.com/bethanyhgardner/bethanyhgardner.github.io/blob/main/industry.pdf
             text: Industry
+  page-footer:
+    center: Made using Quarto v1.4
 
 format:
   html:
+    page-layout: full
     theme: pulse
     toc: false
     embed-resources: true

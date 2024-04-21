@@ -7,31 +7,45 @@
     "text": "For most of these experiments, you can see the preregistration (); the materials, de-identified data, and analysis code (), and a non-paywalled copy of the paper or conference presentation (). For materials, data, or code that isn’t available here, send me an email ().\n\n\nPublications\n\n\n\n\n\n\n\n\n\n\nunder review\nImproving memory for and production of singular they pronouns  Gardner, B. & Brown-Schmidt, S.\n\n\n\n\n\n2024\nBiased inferences about gender from names  Gardner, B. & Brown-Schmidt, S.  Glossa Psycholinguistics, 3(1). 10.5070/G6011185\n\n\n\n\n\n2021\nOnline pragmatic interpretations of scalar adjectives are affected by perceived speaker reliability  Gardner, B., Dix, S., Lawrence, R., Morgan, C., Sullivan, A., & Kurumada, C.  PLoS ONE, 16(2). 10.1371/journal.pone.0245130\n\n\n\n\n\n\n\n\n\nManuscripts\n\n\n\n\n\n\n\n\n\n\n\n2023\nLearning to comprehend and produce singular they  Doctoral dissertation. ProQuest.\n\n\n\n\n\n\n2020\nGender bias through production about and memory for names  Master’s thesis. ProQuest.\n\n\n\n\n\n\n\n\n\n\nConference Presentations\n\n\n\n\n\n\n\n\n\n\n2023\nOnline interpretation of specific singular they  Gardner, B. & Brown-Schmidt, S.  36th Annual Conference on Human Sentence Processing. 10.13140/RG.2.2.14625.89443\n\n\n\n\n\n2023\nIncluding pronouns on nametags and in introductions supports production of singular they  Gardner, B. & Brown-Schmidt, S.  36th Annual Conference on Human Sentence Processing. 10.13140/RG.2.2.17981.33761\n\n\n\n\n\n2023\nDoes putting pronouns on nametags and in introductions affect production of singular they?  Gardner, B. & Brown-Schmidt, S.  97th Annual Meeting of the Linguistic Society of America. 10.13140/RG.2.2.27905.12640\n\n\n\n\n\n2022\nEffects of PSAs and pronoun modeling on memory and production of singular they  Gardner, B. & Brown-Schmidt, S.  96th Annual Meeting of the Linguistic Society of America. 10.13140/RG.2.2.14483.35369\n\n\n\n\n\n2021\nEffects of prior information on memory and production of singular they pronouns  Gardner, B. & Brown-Schmidt, S.  62nd Annual Meeting of the Psychonomic Society. 10.13140/RG.2.2.34616.01285\n\n\n\n\n\n2021\nRecall and production of singular they/them pronouns  Gardner, B. & Brown-Schmidt, S.  34th Annual CUNY Conference on Human Sentence Processing. 10.13140/RG.2.2.25583.36004\n\n\n\n\n\n2020\n“No gender mentioned but I’d say male”: Gender bias through production about news stories  Gardner, B. & Brown-Schmidt, S.  33rd Annual CUNY Conference on Human Sentence Processing. 10.13140/RG.2.2.12161.58723\n\n\n\n\n\n2019\n“Call me by my last name”: Gender bias through production about and memory for names  Gardner, B. & Brown-Schmidt, S.  60th Annual Meeting of the Psychonomic Society. 10.13140/RG.2.2.33971.96800\n \n\n\n\n\n2019\nVariation in the rational interpretation of slights: Gender-based microaggressions  Gardner, B. & Kurumada, C.  32nd CUNY Conference on Human Sentence Processing. 10.13140/RG.2.2.13839.30883\n\n\n\n\n\n2019\n“You’re good at math for a woman”: An experimental analysis of gender-based microaggressions  Gardner, B. & Kurumada, C.  93rd Annual Meeting of the Linguistic Society of America. 10.13140/RG.2.2.27261.08163\n\n\n\n\n\n2018\nTalker-specific adaptation of inferences based on scalar adjectives  Morgan, C., Gardner, B., Lawrence, R., & Kurumada, C.  24th Architectures and Mechanisms for Language Processing.\n\n\n\n\n\n2018\nReal-time pragmatic processing with an artificial lexicon  Gardner, B., Clark, M., Pogue, A. & Kurumada, C.  31st Annual Conference on Human Sentence Processing; National Conference for Undergraduate Research. 10.13140/RG.2.2.30616.52481\n\n\n\n\n\n2016\nRapid adaptation of online pragmatic inferences based on scalar adjectives  Gardner, B., Sullivan, A., Trine, T., Jaeger, T. F., & Kurumada, C.  22nd Architectures and Mechanisms for Language Processing. 10.13140/RG.2.2.17194.75200"
   },
   {
+    "objectID": "freelance.html",
+    "href": "freelance.html",
+    "title": "Bethany Gardner",
+    "section": "",
+    "text": "I’m currently doing freelance work full time. If you’d like to discuss a potential project, you can contact me directly by email or through Upwork.\n\n\nData VisualizationStatistical Consulting & ProgrammingData Wrangling & Experiment Coding\n\n\nHit the limits of what Excel can do? A lot of the small contracts I’ve been doing for academic and academic-adjacent clients have been data visualization, and I recently made a bonus episode and tutorial code with Lingthusiasm about how to make vowel plots. I primarily work in R using ggplot, and my rates for data visualization projects are currently $35-$50/hr.\n\n    \n\n    \n\n\nI also do statistical consulting and programming for both academic and industry clients. I can:\n\nAdvise you on which statistical tests are most appropriate for your research question\nWrite analysis code in R, making it fully reproducible using Quarto/R Markdown\nTranslate code and replicate existing analyses from SAS, STATA, SPSS, or Jamovi\n\nMost of my expertise is in regression modeling, particularly in mixed-effects models for hypothesis testing, but I’m also familiar with Bayesian frameworks, ANOVAs, and SEM.\nYou can see examples of my reproducible analysis code published alongside my dissertation and recent publication. I’d love to work more with academics about getting reproducible analysis work flows set up, since open science doesn’t work very well if other people (and future you) struggle to understand or reproduce the shared code.\nMy rates are currently $35-$45/hr for programming jobs (i.e., you know what stats you want to do and just need someone to set it up in R) and $50-$65/hr for consulting + programming jobs (i.e., you also want me to decide what stats to do).\n\n\nI primarily work in R using the tidyverse, but I’m also comfortable working in Python and Excel. More specific to psychology and linguistics research, I have experience:\n\nCoding experiments, primarily in PCIbex and also in MATLAB, Qualtrics, and PsychoPy\nSetting up online data collection to use AWS storage and time-consuming models to run on AWS servers\nTranslating legacy code that’s worked for years but is accumulating dependency and compatability issues, then validating the new code\nRecording and preprocessing eyetracking, audio, and text data\n\nMy rates for data preprocessing and data collection code are currently $35-$45/hr."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Bethany Gardner",
     "section": "",
-    "text": "[overview text]"
+    "text": "I recently finished my PhD in Psychology, where my training focused on quantitative methods, cognitive psychology, and psycholinguistics. My dissertation investigated how people learn to use singular they pronouns and what kinds of contexts support learning. More broadly, I’m interested in questions about people’s learning and behavior, and in figuring out if systems and policies are working in the way we intend.\nI’m currently freelancing as a statistical consultant, statistical programmer, data scientist, and ggplot wizard for hire. I’m also on the full time job market, considering both industry and postdoc positions, primarily in the Philadelphia metro area, other Northeast cities, or remote."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Bethany Gardner",
-    "section": "Research Interests",
+    "section": " Research Interests",
     "text": "Research Interests\n\nlanguage processing\nmemory for language\npronouns & reference\nsingular they\ngender bias in language\npsycholinguistics-sociolinguistics interface"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
     "title": "Bethany Gardner",
-    "section": "Education",
-    "text": "Education\nPh.D. in Psychological Sciences | Vanderbilt University\n  2018–2023    Nashville, TN\nB.S. in Brain & Cognitive Sciences | University of Rochester\n  2014–2018    Rochester, NY"
+    "section": " Skills",
+    "text": "Skills\n\nstatistical analysis, particularly multilevel/mixed-effects modeling and logistic regression\nstatistical programming in R, translating out of SPSS,  SAS, and STATA\ndata wrangling and visualization in R and Python\nreproducible analysis using Quarto and R Markdown\nworking with behavioral, survey, audio, and eyetracking data\nexperiment coding in Python, PCIbex, and MATLAB"
   },
   {
     "objectID": "index.html#elsewhere",
     "href": "index.html#elsewhere",
     "title": "Bethany Gardner",
-    "section": "Elsewhere",
-    "text": "Elsewhere\n\n\n     Email\n  \n\n     LinkedIn\n  \n\n     Upwork\n  \n\n     Github\n  \n\n\n\n     Twitter\n  \n\n     Bluesky\n  \n\n\n\n     OSF\n  \n\n     ORCID\n  \n\n     Google Scholar\n  \n\n     ResearchGate"
+    "section": " Elsewhere",
+    "text": "Elsewhere\n\n\n     Github\n  \n\n     LinkedIn\n  \n\n     Upwork\n  \n\n\n\n     Email\n  \n\n     Twitter\n  \n\n     Bluesky\n  \n\n\n\n     Open Science Foundation\n  \n\n     ORCID\n  \n\n\n\n     Google Scholar\n  \n\n     ResearchGate"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Bethany Gardner",
+    "section": " Education",
+    "text": "Education\nPh.D. in Psychological Sciences | Vanderbilt University\n  2018–2023    Nashville, TN\nWorking in the Conversation Lab with Sarah Brown-Schmidt\nB.S. in Brain & Cognitive Sciences | University of Rochester\n  2014–2018    Rochester, NY\nWorking in the Kinder Lab with Chigusa Kurumada"
   }
 ]
