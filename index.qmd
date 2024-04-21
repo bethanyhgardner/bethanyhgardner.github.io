@@ -6,63 +6,74 @@ about:
 ---
 
 ::: about-links
+
 ```{=html}
 <a href="mailto:bethany.gardner@vanderbilt.edu" class="about-link" rel="" target="">
-    <i class="fa fa-envelope"></i><span class="about-link-text"></span>
+    <i class="bi bi-envelope-at-fill"></i><span class="about-link-text"> Email</span>
   </a>
 ```
 
 ```{=html}
 <a href="https://www.linkedin.com/in/bethany-gardner-378649121/" class="about-link" rel="" target="">
-    <i class="fa-brands fa-linkedin"></i><span class="about-link-text"></span>
+    <i class="bi bi-linkedin"></i><span class="about-link-text"> LinkedIn</span>
   </a>
 ```
 
 ```{=html}
-<a href="https://twitter.com/bethanyhgardner" class="about-link" rel="" target="">
-    <i class="fa-brands fa-twitter"></i><span class="about-link-text"></span>
+<a href="https://www.upwork.com/freelancers/~01611ffda97429136e" class="about-link" rel="" target="">
+    <i class="fa-brands fa-upwork"></i><span class="about-link-text"> Upwork</span>
   </a>
 ```
 
 ```{=html}
 <a href="https://github.com/bethanyhgardner" class="about-link" rel="" target="">
-    <i class="fa-brands fa-github"></i><span class="about-link-text"></span>
+    <i class="bi bi-github"></i><span class="about-link-text"> Github</span>
+  </a>
+```
+
+:::
+
+::: about-links
+
+```{=html}
+<a href="https://twitter.com/bethanyhgardner" class="about-link" rel="" target="">
+    <i class="bi bi-twitter"></i><span class="about-link-text"> Twitter</span>
   </a>
 ```
 
 ```{=html}
-<a href="https://osf.io/profile/" class="about-link" rel="" target="">
-    <i class="ai ai-osf"></i><span class="about-link-text"></span>
+<a href="https://bsky.app/profile/bethanyhgardner.bsky.social" class="about-link" rel="" target="">
+    <i class="fa-brands fa-bluesky"></i><span class="about-link-text"> Bluesky</span>
   </a>
 ```
 
+:::
+
+::: about-links
+
 ```{=html}
-<a href="https://www.researchgate.net/profile/Bethany_Gardner8" class="about-link" rel="" target="">
-    <i class="ai ai-researchgate"></i><span class="about-link-text"></span>
+<a href="https://osf.io/tgep7/" class="about-link" rel="" target="">
+    <i class="ai ai-osf"></i><span class="about-link-text"> OSF</span>
   </a>
 ```
 
 ```{=html}
 <a href="https://orcid.org/0000-0002-5154-2040" class="about-link" rel="" target="">
-    <i class="ai ai-orcid"></i><span class="about-link-text"></span>
-  </a>
-```
-:::
-
-Under development!
-
-
-::: about-links
-
-```{=html}
-<a href="https://github.com/bethanyhgardner/bethanyhgardner.github.io/blob/main/academic_CV.pdf" class="about-link" rel="" target="">
-    <i class="fa fa-file-arrow-down"></i><span class="about-link-text">&ensp;Academic CV</span>
+    <i class="ai ai-orcid"></i><span class="about-link-text"> ORCID</span>
   </a>
 ```
 
 ```{=html}
-<a href="https://github.com/bethanyhgardner/bethanyhgardner.github.io/blob/main/industry_resume.pdf" class="about-link" rel="" target="">
-    <i class="fa fa-file-arrow-down"></i><span class="about-link-text">&ensp;Industry Resume</span>
+<a href="https://scholar.google.com/citations?user=JGiy8EEAAAAJ&hl=en" class="about-link" rel="" target="">
+    <i class="ai ai-google-scholar"></i><span class="about-link-text"> Google Scholar</span>
+  </a>
+```
+
+```{=html}
+<a href="https://www.researchgate.net/profile/Bethany_Gardner8" class="about-link" rel="" target="">
+    <i class="ai ai-researchgate"></i><span class="about-link-text"> ResearchGate</span>
   </a>
 ```
 :::
+
+{{< ai osf color:white >}}
