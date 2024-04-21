@@ -1,9 +1,35 @@
 ---
+title: Bethany Gardner
 about:
   template: solana
-  image: images/profilephoto.jpg
+  image: images/profile-photo.jpg
   image-shape: round
 ---
+
+I recently finished my PhD in Psychology, where my training focused on quantitative methods, cognitive psychology, and psycholinguistics. My dissertation investigated how people learn to use singular *they* pronouns and what kinds of contexts support learning. More broadly, I'm interested in questions about people's learning and behavior, and in figuring out if systems and policies are working in the way we intend.
+
+I'm currently freelancing as a statistical consultant, statistical programmer, data scientist, and ggplot wizard for hire. I'm also on the full time job market, considering both industry and postdoc positions, primarily in the Philadelphia metro area, other Northeast cities, or remote.
+
+## Research Interests
+
+*   language processing
+*   memory for language
+*   pronouns & reference
+*   singular *they*
+*   gender bias in language
+*   psycholinguistics-sociolinguistics interface
+
+## Education
+
+Ph.D. in Psychological Sciences | Vanderbilt University \
+{{< fa calendar >}}&ensp; 2018--2023 &emsp;{{< fa location-dot >}}&ensp; Nashville, TN
+
+
+B.S. in Brain & Cognitive Sciences | University of Rochester \
+{{< fa calendar >}}&ensp; 2014--2018 &emsp;{{< fa location-dot >}}&ensp; Rochester, NY
+
+
+## Elsewhere
 
 ::: about-links
 
