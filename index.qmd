@@ -10,7 +10,11 @@ I recently finished my PhD in Psychology, where my training focused on quantitat
 
 I'm currently freelancing as a statistical consultant, statistical programmer, data scientist, and ggplot wizard for hire. I'm also on the full time job market, considering both industry and postdoc positions, primarily in the Philadelphia metro area, other Northeast cities, or remote.
 
-## Research Interests
+::: {.grid}
+
+::: {.g-col-5}
+
+## {{< fa brain >}} Research Interests
 
 *   language processing
 *   memory for language
@@ -19,23 +23,34 @@ I'm currently freelancing as a statistical consultant, statistical programmer, d
 *   gender bias in language
 *   psycholinguistics-sociolinguistics interface
 
-## Education
+:::
 
-Ph.D. in Psychological Sciences | Vanderbilt University \
-{{< fa calendar >}}&ensp; 2018--2023 &emsp;{{< fa location-dot >}}&ensp; Nashville, TN
+::: {.g-col-7}
 
+## {{< fa code >}} Skills
 
-B.S. in Brain & Cognitive Sciences | University of Rochester \
-{{< fa calendar >}}&ensp; 2014--2018 &emsp;{{< fa location-dot >}}&ensp; Rochester, NY
+*   statistical analysis, particularly multilevel/mixed-effects modeling and logistic regression
+*   statistical programming in R, translating out of SPSS, <br> SAS, and STATA
+*   data wrangling and visualization in R and Python
+*   reproducible analysis using Quarto and R Markdown
+*   working with behavioral, survey, audio, and eyetracking data
+*   experiment coding in Python, PCIbex, and MATLAB
 
+:::
 
-## Elsewhere
+:::
+
+::: {.grid}
+
+::: {.g-col-5}
+
+## {{< fa circle-user >}} Elsewhere
 
 ::: about-links
 
 ```{=html}
-<a href="mailto:bethany.gardner@vanderbilt.edu" class="about-link" rel="" target="">
-    <i class="bi bi-envelope-at-fill"></i><span class="about-link-text"> Email</span>
+<a href="https://github.com/bethanyhgardner" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i><span class="about-link-text"> Github</span>
   </a>
 ```
 
@@ -51,15 +66,15 @@ B.S. in Brain & Cognitive Sciences | University of Rochester \
   </a>
 ```
 
-```{=html}
-<a href="https://github.com/bethanyhgardner" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i><span class="about-link-text"> Github</span>
-  </a>
-```
-
 :::
 
 ::: about-links
+
+```{=html}
+<a href="mailto:bethany.gardner@vanderbilt.edu" class="about-link" rel="" target="">
+    <i class="bi bi-envelope-at-fill"></i><span class="about-link-text"> Email</span>
+  </a>
+```
 
 ```{=html}
 <a href="https://twitter.com/bethanyhgardner" class="about-link" rel="" target="">
@@ -79,7 +94,7 @@ B.S. in Brain & Cognitive Sciences | University of Rochester \
 
 ```{=html}
 <a href="https://osf.io/tgep7/" class="about-link" rel="" target="">
-    <i class="ai ai-osf"></i><span class="about-link-text"> OSF</span>
+    <i class="ai ai-osf"></i><span class="about-link-text"> Open Science Foundation</span>
   </a>
 ```
 
@@ -88,6 +103,10 @@ B.S. in Brain & Cognitive Sciences | University of Rochester \
     <i class="ai ai-orcid"></i><span class="about-link-text"> ORCID</span>
   </a>
 ```
+
+:::
+
+::: about-links
 
 ```{=html}
 <a href="https://scholar.google.com/citations?user=JGiy8EEAAAAJ&hl=en" class="about-link" rel="" target="">
@@ -100,6 +119,25 @@ B.S. in Brain & Cognitive Sciences | University of Rochester \
     <i class="ai ai-researchgate"></i><span class="about-link-text"> ResearchGate</span>
   </a>
 ```
+
+:::
+
+:::
+
+::: {.g-col-7}
+
+## {{< fa graduation-cap >}} Education
+
+Ph.D. in Psychological Sciences | Vanderbilt University \
+{{< fa calendar >}}&ensp; 2018--2023 &emsp;{{< fa location-dot >}}&ensp; Nashville, TN \
+Working in the [Conversation Lab](http://sarahbrownschmidt.com/lab/) with Sarah Brown-Schmidt
+
+B.S. in Brain & Cognitive Sciences | University of Rochester \
+{{< fa calendar >}}&ensp; 2014--2018 &emsp;{{< fa location-dot >}}&ensp; Rochester, NY \
+Working in the [Kinder Lab](https://kinderlab.bcs.rochester.edu/) with Chigusa Kurumada
+
+:::
+
 :::
 
 {{< ai osf color:white >}}
