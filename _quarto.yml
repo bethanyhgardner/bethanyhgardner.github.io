@@ -11,6 +11,8 @@ website:
       - href: pubs.qmd
         text: Papers & Presentations
       - text: "Portfolio Projects"
+      - href: freelance.qmd
+        text: Freelance
         menu:
           - href: https://bethanyhgardner.github.io/dissertation/
             text: Dissertation published as Quarto book
