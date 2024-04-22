@@ -22,7 +22,7 @@ website:
         menu:
           - href: https://github.com/bethanyhgardner/bethanyhgardner.github.io/blob/main/academic_CV.pdf
             text: Academic
-          - href: https://github.com/bethanyhgardner/bethanyhgardner.github.io/blob/main/industry.pdf
+          - href: https://github.com/bethanyhgardner/bethanyhgardner.github.io/blob/main/industry_resume.pdf
             text: Industry
   page-footer:
     center: Made using Quarto v1.4
