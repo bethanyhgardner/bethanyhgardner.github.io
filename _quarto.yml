@@ -18,6 +18,8 @@ website:
             text: Dissertation published as Quarto book
           - href: https://bethanyhgardner.github.io/lingthusiasm-vowel-plots/
             text: Vowel plots tutorial
+          - href: https://github.com/bethanyhgardner/llm-size-plot/
+            text: LLM size data & plot
       - text: CV/Resume
         menu:
           - href: https://github.com/bethanyhgardner/bethanyhgardner.github.io/blob/main/academic_CV.pdf
