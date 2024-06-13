@@ -9,15 +9,15 @@ Hit the limits of what Excel can do? A lot of the small contracts I've been doin
 
 <br>
 
-![](images/example-survey.png){height=375px} &emsp;&emsp; ![](images/example-wells.png){height=375px}
+[![](images/example-survey.png){height="375"}](https://bethanyhgardner.github.io/dissertation/)    [![](images/example-wells.png){height="375"}](https://bethanyhgardner.github.io/lingthusiasm-vowel-plots/)
 
 <br>
 
- ![](images/example-eyetracking.png){height=325px} &emsp;&emsp; ![](images/example-slab.png){height=325px}
+[![](images/example-eyetracking.png){height="325"}](https://bethanyhgardner.github.io/dissertation/)    [![](images/example-slab.png){height="325"}](https://bethanyhgardner.github.io/dissertation/)
 
 <br>
 
-![](images/example-llm.png){fig-align="center" width="750px"}
+[![](images/example-llm.png){fig-align="center" width="750"}](https://github.com/bethanyhgardner/llm-size-plot/)
 
 ## Statistical Consulting & Programming
 
