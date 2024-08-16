@@ -27,7 +27,7 @@ website:
           - href: https://github.com/bethanyhgardner/bethanyhgardner.github.io/blob/main/industry_resume.pdf
             text: Industry (Data Science Version)
   page-footer:
-    center: Made using Quarto v1.4
+    center: Made using Quarto v1.5
 
 format:
   html:

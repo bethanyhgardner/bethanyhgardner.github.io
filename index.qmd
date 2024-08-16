@@ -30,7 +30,7 @@ I'm currently freelancing as a statistical consultant, statistical programmer, d
 ## {{< fa code >}} Skills
 
 *   statistical analysis, particularly multilevel/mixed-effects modeling and logistic regression
-*   statistical programming in R, translating out of SPSS, <br> SAS, and STATA
+*   statistical programming in R; translating out of SPSS, <br> SAS, and STATA
 *   data wrangling and visualization in R and Python
 *   reproducible analysis using Quarto and R Markdown
 *   working with behavioral, survey, audio, and eyetracking data
