@@ -22,10 +22,10 @@ website:
             text: LLM size data & plot
       - text: CV/Resume
         menu:
+          - href: https://github.com/bethanyhgardner/bethanyhgardner.github.io/blob/main/industry_resume.pdf
+            text: Industry
           - href: https://github.com/bethanyhgardner/bethanyhgardner.github.io/blob/main/academic_CV.pdf
             text: Academic
-          - href: https://github.com/bethanyhgardner/bethanyhgardner.github.io/blob/main/industry_resume.pdf
-            text: Industry (Data Science Version)
   page-footer:
     center: Made using Quarto v1.5
 
